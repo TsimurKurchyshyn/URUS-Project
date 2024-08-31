@@ -2,16 +2,12 @@
 
 ---
 
-### To play the app, click [here](https://tsimurkurchyshyn.github.io/To-Do-List-App/)
+### To use the website, click [here](https://tsimurkurchyshyn.github.io/URUS-Project/)
 
 ---
 
-This app was made by using languages such as HTML, CSS, and JavaScript.
+This app was made by using languages such as HTML and CSS.
 
 ---
 
-### Controls
-To add a task, click on a spacebar with the text "Add your text". After you wrote your task, click on the red button "Add".
-To make the task completed, click on the white circle to the left of your task text. To delete the task, click on the cross icon.
-
-**All Data is saved in the website**
+The website was build as a template to the vehicle rent websites. It consists mostly of pictures of Lamborgini URUS and a rent application. The user can choose out of 4 colors (Orange, White, Yellow, and Black) and rent the car.
