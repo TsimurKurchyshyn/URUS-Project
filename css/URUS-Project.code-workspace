@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "URUS-Project",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "URUS-Project"
+	}
+}

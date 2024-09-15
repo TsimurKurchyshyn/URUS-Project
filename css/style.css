@@ -33,7 +33,7 @@ body{
 }
 
 .header {
-  background-image: url(../images/overview_d\ 1.jpg);
+  background-image: url(../images/photo_2024-09-15_16-17-03.jpg);
   background-position: no-repeat;
   background-size: cover;
   background-position: center;
@@ -69,7 +69,7 @@ body{
 
 .title{
 font-size: 345px;
-background: linear-gradient(180deg, #000000 0%, #830B02 100%);
+background: linear-gradient(180deg, #fff 0%, #830B02 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 background-clip: text;
@@ -79,7 +79,7 @@ text-fill-color: transparent;
 .subtitle{
 font-size: 160px;
 
-background: linear-gradient(90deg, #FF5017 0%, #000000 100%);
+background: linear-gradient(90deg, #FF5017 0%, #fff 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 background-clip: text;
@@ -87,6 +87,7 @@ text-fill-color: transparent;
 align-self: flex-end;
 padding-right: 75px;
 padding-bottom: 50px;
+padding-top: 120px;
 }
 
 .header_imgs{
@@ -97,6 +98,7 @@ padding-bottom: 50px;
   bottom: 0;
   margin: auto;
   max-width: 100%;
+  padding-top: 150px;
 }
 
 .info{
@@ -303,7 +305,7 @@ font-size: 24px;
     padding-left: 0;
   }
   .subtitle{
-    font-size: 140px;
+    font-size: 120px;
     padding-right: 0;
   }
 
