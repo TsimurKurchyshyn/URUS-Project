@@ -335,10 +335,10 @@ font-size: 24px;
 }
 
 @media(max-width: 1820px){
-  .info__gallery{
+  .info_gallery{
     gap:24px 20px;
   }
-  .info__gallery img{
+  .info_gallery img{
     width: 49%;
   }
 }
